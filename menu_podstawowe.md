@@ -42,3 +42,10 @@
 
 ![Zdjęcie wizualizacyjne napojów](https://media.istockphoto.com/id/113559892/pl/zdj%C4%99cie/zestaw-orze%C5%BAwiaj%C4%85ce-napoje-w-plastikowych-butelek.jpg?s=612x612&w=is&k=20&c=JDDlp4jOciOPph5fa4DnVGwSLH2vLNhH8V1WE3xauI4=)
 
+<details>
+  <summary>Dodatkowe</summary>
+| Nazwa Produktu | Cena |
+| -------------- | ---- |
+| Opakowanie | 1zł |
+</details>
+
