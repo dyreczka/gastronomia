@@ -1,7 +1,8 @@
 Restauracja "kebab" powinna być przyjemnym miejscem, które oferuje smaczne dania, atmosferę i wygodne miejsce do spożywania posiłków. Ta restauracja powinna mieć następujące cechy:
 
-- Restauracja kebab powinna mieć czysty, przyjemny wystrój, który odzwierciedla kulturę i styl kuchni. Może zawierać elementy orientalne, kolorowe plakaty, pasującą muzykę i przytulne oświetlenie.
-- Personel powinien być uprzejmy, przyjazny i chętny do udzielenia informacji o menu oraz pomocy w wyborze dań. Niestety, przez fakt, iż planowo mają być zatrudnieni obcjokrajowcy/studenci może być utrudniona komunikacja z klientami,
-- Restauracja kebab powinna oferować różnorodne dania oparte na świeżych i wysokiej jakości składnikach. W menu powinny znaleźć się różne rodzaje kebabów. Ważne jest, aby dania były przygotowywane na bieżąco i serwowane w smaczny i apetyczny sposób.
-- Czystość powinna być utrzymywana we wszystkich obsarach, w tym w kuchni, na sali, toaletach itp.
-- Przystępne ceny w stosunku do jakości serwowanych dań.
+- Restauracja kebab będzie mieć czysty, przyjemny wystrój, który odzwierciedla kulturę i styl kuchni. W tle będzie puszczana muzyka typowa dla tureckiej kultury oraz wystrój będzie posiadać elemnty orientalne.
+- Personel będzie uprzejmy, przyjazny oraz przeszkolony z szybkiej i efektywnej obsługi klienta oraz zamówień. 
+- Restauracja będzie mieć codzienne dostawy świeżych składników, zawartych w pliku "wyposażenie.md", a menu będzie mieć konkretne i odpowiednie ceny co do dań. Dania będą przygotowane na bieżąco.
+- Pracownicy będą dbać o czystość.
+- Sama restauracja będzie posiadać 2 stoliki dla 4 osób oraz miejsce przy ścianie na 3 osoby.
+- Restauracja będzie oferować dostawy za pośrednictwem popularnych kurierów jedzeniowych (m.in. pyszne, glovo)
