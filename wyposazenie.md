@@ -74,6 +74,7 @@
   - 3 krzesła barowe
  - Dodatkowe
    - Opakowania na jedzenie
+   - Środki czystości
 </details>
 
 <details>
