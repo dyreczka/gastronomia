@@ -57,7 +57,7 @@
 </details>
 
 <details>
-  <Summary>Wyposażenie</Summary>
+  <Summary>Wyposażenie - restauracji</Summary>
 
   - Kuchni
   - Tekstytalia kuchenne
@@ -74,6 +74,12 @@
   - 3 krzesła barowe
 </details>
 
+<details>
+  <summary>Personel</summary> 
+Zmiany: Poranna (10-17), Popołudniowa (15-22)
+- Kucharz x2 
+- Kasjer x2
+</details>
 
 
 
