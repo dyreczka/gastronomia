@@ -1,5 +1,5 @@
-Nazwa: Restauracja Kebab
-Ulica: Janusza 23, 60-778n Poznań
+Nazwa: *Restauracja Kebab*
+Ulica: Janusza 23, 60-778 Poznań
 Telefon: +48 123-456-789
 e-mail: kebab@kebab.com
 Czynne:
