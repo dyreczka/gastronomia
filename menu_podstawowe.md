@@ -33,10 +33,10 @@
   
 | Nazwa Napoju | Cena |
 | ------------ | ---- |
-| Woda mineralna (0.5l) | 10zł |
-| Pepsi, Mirinda, 7UP (0.5l) | 12zł |
-| Sok jabłkowy, pomarańczowy (0.5l) | 10zł |
-| Woda mineralna (1l) | 14zł |
+| Woda mineralna (0.5l) | 5zł |
+| Pepsi, Mirinda, 7UP (0.5l) | 7zł |
+| Sok jabłkowy, pomarańczowy (0.5l) | 5zł |
+| Woda mineralna (1l) | 7zł |
 
 </details>
 
