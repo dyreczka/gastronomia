@@ -7,3 +7,11 @@ Kebab w picie
 | Kebab Firmowy | Mięso, surówki, sos, ser | 21 zł |
 | FrytoKebab | Mięso, frytki, sos | 17zł |
 | Kebab z serem | Mięso, ser, sos | 17zł |
+
+Kebab rollo
+| Nazwa Dania | Składniki | Cena |
+| ----------- | --------- | ---- |
+| Kebab mały | Mięso, ogórek, cebula, surówki, sos | 13zł |
+| Kebab Średni | Mięso, ogórek, cebula, surówki, sos | 19zł |
+| Kebab Firmowy | Mięso, ogórek, cebula, surówki, sos, ser | 21 zł |
+| FrytoKebab | Mięso, frytki, sos | 17zł |
