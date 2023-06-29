@@ -44,8 +44,10 @@
 
 <details>
   <summary>Dodatkowe</summary>
+  
 | Nazwa Produktu | Cena |
 | -------------- | ---- |
 | Opakowanie | 1zł |
+
 </details>
 
