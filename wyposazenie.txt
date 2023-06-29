@@ -16,3 +16,15 @@ Składniki do dań:
 - Warzywa
 -- Ogórek
 -- Cebula
+
+Napoje:
+- Wody
+-- Woda Mineralna 0.5l
+-- Woda Mineralna 1l
+- Napoje Gazowane 0.5l
+-- Pepsi
+-- Mirinda
+-- 7UP
+- Soki 0.5l
+-- Sok Jabłkowy
+-- Sok Pomarańczowy
