@@ -1,6 +1,7 @@
-Składniki do dań - Podstawowe:
+<details>
+  <summary>Składniki do dań - Podstawowe:</summary>
 
-- Mięso
+  - Mięso
   - Baranina
   - Kurczak
 - Surówki
@@ -18,19 +19,26 @@ Składniki do dań - Podstawowe:
 - Bułki Do kebabów
 - Bułki rollo
 
-Składniki do dań - Sezonowe:
 
-- Warzywa
+</details>
+
+
+<details>
+<summary>Składniki do dań - Sezonowe:</summary>
+  
+  - Warzywa
   - Szczypiorek
   - Kukurydza
 - Nugetsy
 - Sosy
   - Meksykański
   - Orientalny
+</details>
 
-
-Napoje:
-- Wody
+<details>
+  <summary>Napoje:</summary>
+  
+  - Wody
   - Woda Mineralna 0.5l
   - Woda Mineralna 1l
 - Napoje Gazowane 0.5l
@@ -40,3 +48,9 @@ Napoje:
 - Soki 0.5l
   - Sok Jabłkowy
   - Sok Pomarańczowy
+</details>
+
+
+
+
+
