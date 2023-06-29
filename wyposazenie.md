@@ -72,6 +72,8 @@
   - 2 stoliki
   - 8 krzeseł
   - 3 krzesła barowe
+ - Dodatkowe
+   - Opakowania na jedzenie
 </details>
 
 <details>
