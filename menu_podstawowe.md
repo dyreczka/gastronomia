@@ -19,7 +19,7 @@
   
 | Nazwa Dania | Składniki | Cena |
 | ----------- | --------- | ---- |
-| Kebab mały | Mięso, ogórek, cebula, surówki, sos | 18zł |
+| Kebab Mały | Mięso, ogórek, cebula, surówki, sos | 18zł |
 | Kebab Średni | Mięso, ogórek, cebula, surówki, sos | 24zł |
 | Kebab Firmowy | Mięso, ogórek, cebula, surówki, sos, ser | 26 zł |
 | FrytoKebab | Mięso, frytki, sos | 22zł |
@@ -31,12 +31,12 @@
 <details>
 <summary>Napoje</summary>
   
-| Nazwa Napoju | Cena |
-| ------------ | ---- |
-| Woda mineralna (0.5l) | 5zł |
-| Pepsi, Mirinda, 7UP (0.5l) | 7zł |
-| Sok jabłkowy, pomarańczowy (0.5l) | 5zł |
-| Woda mineralna (1l) | 7zł |
+| Nazwa Napoju | Pojemność | Cena |
+| ------------ | --------- | ---- |
+| Woda mineralna | 0.5L | 5zł |
+| Pepsi, Mirinda, 7UP | 0.5L | 7zł |
+| Sok jabłkowy, pomarańczowy | 0.5L | 5zł |
+| Woda mineralna | 1L | 7zł |
 
 </details>
 
