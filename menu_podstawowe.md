@@ -1,4 +1,6 @@
-Kebab w picie
+<details>
+<summary>Kebab w bułce</summary>
+  
 | Nazwa Dania | Składniki | Cena |
 | ----------- | --------- | ---- |
 | Kebab Studencki | Mięso, surówki, sos | 11zł |
@@ -8,7 +10,11 @@ Kebab w picie
 | FrytoKebab | Mięso, frytki, sos | 17zł |
 | Kebab z serem | Mięso, ser, sos | 17zł |
 
-Kebab rollo
+</details>
+
+<details>
+<summary>Kebab rollo</summary>
+  
 | Nazwa Dania | Składniki | Cena |
 | ----------- | --------- | ---- |
 | Kebab mały | Mięso, ogórek, cebula, surówki, sos | 13zł |
@@ -16,10 +22,19 @@ Kebab rollo
 | Kebab Firmowy | Mięso, ogórek, cebula, surówki, sos, ser | 21 zł |
 | FrytoKebab | Mięso, frytki, sos | 17zł |
 
-Napoje
+</details>
+
+<details>
+<summary>Napoje</summary>
+  
 | Nazwa Napoju | Cena |
 | ------------ | ---- |
 | Woda mineralna (0.5l) | 5zł |
 | Pepsi, Mirinda, 7UP (0.5l) | 7zł |
 | Sok jabłkowy, pomarańczowy (0.5l) | 5zł |
 | Woda mineralna (1l) | 9zł |
+
+</details>
+
+
+
