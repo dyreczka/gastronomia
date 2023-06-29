@@ -56,9 +56,10 @@
   
 </details>
 
+<details>
+  <Summary>Wyposażenie</Summary>
 
-Wyposażenie
-- Kuchni
+  - Kuchni
   - Tekstytalia kuchenne
   - 2x Ogrzewacze do miesa
   - Lodówki ladowe do składników sałatek
@@ -71,5 +72,8 @@ Wyposażenie
   - 2 stoliki
   - 8 krzeseł
   - 3 krzesła barowe
+</details>
+
+
 
 
