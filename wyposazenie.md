@@ -57,6 +57,19 @@
 </details>
 
 
-
+Wyposażenie
+- Kuchni
+  - Tekstytalia kuchenne
+  - 2x Ogrzewacze do miesa
+  - Lodówki ladowe do składników sałatek
+  - Frytkownica oraz zamrażalka
+- Kasy
+  - Kasa fiskalna
+  - Papier na paragony
+  - Długopisy
+- Sala
+  - 2 stoliki
+  - 8 krzeseł
+  - 3 krzesła barowe
 
 
