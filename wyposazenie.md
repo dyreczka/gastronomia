@@ -1,4 +1,7 @@
 <details>
+  <summary>Lista wyposażenia - jedzenie</summary>
+
+<details>
   <summary>Składniki do dań - Podstawowe:</summary>
 
   - Mięso
@@ -48,6 +51,9 @@
 - Soki 0.5l
   - Sok Jabłkowy
   - Sok Pomarańczowy
+</details>
+
+  
 </details>
 
 
