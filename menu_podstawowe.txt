@@ -15,3 +15,11 @@ Kebab rollo
 | Kebab Średni | Mięso, ogórek, cebula, surówki, sos | 19zł |
 | Kebab Firmowy | Mięso, ogórek, cebula, surówki, sos, ser | 21 zł |
 | FrytoKebab | Mięso, frytki, sos | 17zł |
+
+Napoje
+| Nazwa Napoju | Cena |
+| ------------ | ---- |
+| Woda mineralna (0.5l) | 5zł |
+| Pepsi, Mirinda, 7UP (0.5l) | 7zł |
+| Sok jabłkowy, pomarańczowy (0.5l) | 5zł |
+| Woda mineralna (1l) | 9zł |
