@@ -6,3 +6,4 @@ Restauracja "kebab" powinna być przyjemnym miejscem, które oferuje smaczne dan
 - Pracownicy będą dbać o czystość.
 - Sama restauracja będzie posiadać 2 stoliki dla 4 osób oraz miejsce przy ścianie na 3 osoby.
 - Restauracja będzie oferować dostawy za pośrednictwem popularnych kurierów jedzeniowych (m.in. pyszne, glovo)
+- Cena za dostawę będzie wynosić od 5zł do 10zł + 1zł za opakowanie
