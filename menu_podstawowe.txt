@@ -1,1 +1,9 @@
-
+Kebab w picie
+| Nazwa Dania | Składniki | Cena |
+| ----------- | --------- | ---- |
+| Kebab Studencki | Mięso, surówki, sos | 11zł |
+| Kebab Średni | Mięso, surówki, sos | 15zł |
+| Kebab Duży | Mięso, surówki, sos | 17zł |
+| Kebab Firmowy | Mięso, surówki, sos, ser | 21 zł |
+| FrytoKebab | Mięso, frytki, sos | 17zł |
+| Kebab z serem | Mięso, ser, sos | 17zł |
