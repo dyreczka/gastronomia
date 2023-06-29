@@ -1,10 +1,14 @@
-Składniki do dań:
+Składniki do dań - Podstawowe:
 
 - Mięso
 -- Baranina
 -- Kurczak
 - Surówki
 -- Różne rodzaju kapust
+-- Papryka
+-- Pomidor
+-- Ogórek
+-- Cebula
 - Sosy
 -- Łagodny
 -- Ostry
@@ -13,9 +17,17 @@ Składniki do dań:
 - Frytki
 - Bułki Do kebabów
 - Bułki rollo
+
+Składniki do dań - Sezonowe:
+
 - Warzywa
--- Ogórek
--- Cebula
+-- Szczypiorek
+-- Kukurydza
+- Nugetsy
+- Sosy
+-- Meksykański
+-- Orientalny
+
 
 Napoje:
 - Wody
